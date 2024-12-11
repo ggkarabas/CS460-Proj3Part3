@@ -53,5 +53,5 @@ Ensure you have ROS2 installed and sourced (tested with ROS2 Humble). You will a
 To run the simulation, use the following command:
 
 ```bash
-ros2 launch project1 simulation_launch.py
+ros2 launch webots_ros2_homework1_python f23_robotics_1_launch.py world:=maze1_smallest.wbt
 ```
