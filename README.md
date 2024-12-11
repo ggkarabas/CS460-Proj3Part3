@@ -34,7 +34,7 @@ Ensure you have ROS2 installed and sourced (tested with ROS2 Humble). You will a
 1. Clone the repository:
     ```bash
     cd ~/ros2_ws/src
-    git clone https://github.com/ggkarabas/CS460_Project1Submission project1
+    git clone https://github.com/ggkarabas/CS460-Proj3Part3.git
     ```
 
 2. Build the package:
